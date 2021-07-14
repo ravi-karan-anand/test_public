@@ -1,7 +1,1 @@
-function test(txt) {
-    console.log(txt);
-}
-
-module.exports = {
-    test
-};
+require('@anusha-kusam/test-public2');
